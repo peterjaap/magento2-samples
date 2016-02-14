@@ -65,7 +65,7 @@ The application will determine which methods to use based on method naming conve
 ## Installation
 
 This module is intended to be installed using composer.  
-After the code is marshalled by composer, enable the module by adding it the list of enabled modules in [the config](app/etc/config.php) or, if that file does not exist, installing Magento.
+After the code is marshalled by composer, enable the module by adding it the list of enabled modules in the `app/etc/config.php` file or, if that file does not exist, installing Magento.
 After including this component and enabling it, you can verify it is installed by going the backend at:
 
 STORES -> Configuration -> ADVANCED/Advanced ->  Disable Modules Output
